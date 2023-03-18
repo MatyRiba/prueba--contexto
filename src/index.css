@@ -24,6 +24,19 @@ img{
   margin: 8px;
 }
 
+.text-start img{
+  width: 100px;
+}
+
+.text-end img{
+  width: 24px;
+}
+
+.text-end button{
+  width: 40px;
+  margin-right: 32px;
+}
+
 
 
 

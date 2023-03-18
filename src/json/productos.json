@@ -1,12 +1,12 @@
 [
-    {"id": 1, "nombre": "Ramillete flores secas", "precio": 2000, "stock": 10, "imagen":"../public/images/cardoAzul.jpg", "descripcion":"Ramillete de flores secas de cardo azul conservadas", "categoria": "flores secas"},
-    {"id": 2, "nombre": "Jarrones de ceramica/gres", "precio": 7000, "stock": 6, "imagen": "../public/images/deco10.jpg", "descripcion": "Jarron de gres color arena", "categoria": "decoracion"},
-    {"id": 3, "nombre": "Arreglo de Flores Secas", "precio": 3500, "stock": 8, "imagen": "../public/images/deco9.jpg", "descripcion": "Canasta de ratan con arreglo de florees secas conservadas", "categoria": "para regalar"},
-    {"id": 4, "nombre": "Jarrones de ceramica/gres", "precio": 7000, "stock": 4, "imagen": "../public/images/Vase-ceramique-kaki.jpg", "descripcion": "Jarron de gres color kaki", "categoria": "decoracion"},
-    {"id": 5, "nombre": "Guirnalda", "precio": 4500, "stock": 6, "imagen": "../public/images/deco6.jpg", "descripcion": "Guirnalda para pared de flores secas", "categoria": "para regalar"},
-    {"id": 6, "nombre": "Horquilla", "precio": 3500, "stock": 6, "imagen": "../public/images/horquilla1.jpg", "descripcion": "Horquilla de novias", "categoria":"para regalar"},
-    {"id": 7, "nombre": "Portavelas de cristal", "precio": 6500, "stock": 4, "imagen": "../public/images/deco2.jpg", "descripcion": "Portavelas de cristal con flores secas conservadas", "categoria": "para regalar"},
-    {"id": 8, "nombre": "Aplique de cristal", "precio": 5000, "stock": "3", "imagen": "../public/images/deco5.jpg", "categoria": "decoracion"},
-    {"id": 9, "nombre": "Jarrones de Cristal", "precio": 3500, "stock": 6, "imagen": "../public/images/deco8.jpg", "descripcion": "Jarrones de cristal con ramillete de Flores secas conservadas", "categoria": "para regalar"}
+    {"id": 1, "nombre": "Ramillete flores secas", "precio": 2000, "stock": 10, "imagen":"../images/cardoAzul.jpg", "descripcion":"Ramillete de flores secas de cardo azul conservadas", "categoria": "flores secas"},
+    {"id": 2, "nombre": "Jarrones de ceramica/gres", "precio": 7000, "stock": 6, "imagen": "../images/deco10.jpg", "descripcion": "Jarron de gres color arena", "categoria": "decoracion"},
+    {"id": 3, "nombre": "Arreglo de Flores Secas", "precio": 3500, "stock": 8, "imagen": "../images/deco9.jpg", "descripcion": "Canasta de ratan con arreglo de florees secas conservadas", "categoria": "para regalar"},
+    {"id": 4, "nombre": "Jarrones de ceramica/gres", "precio": 7000, "stock": 4, "imagen": "../images/Vase-ceramique-kaki.jpg", "descripcion": "Jarron de gres color kaki", "categoria": "decoracion"},
+    {"id": 5, "nombre": "Guirnalda", "precio": 4500, "stock": 6, "imagen": "../images/deco6.jpg", "descripcion": "Guirnalda para pared de flores secas", "categoria": "para regalar"},
+    {"id": 6, "nombre": "Horquilla", "precio": 3500, "stock": 6, "imagen": "../images/horquilla1.jpg", "descripcion": "Horquilla de novias", "categoria":"para regalar"},
+    {"id": 7, "nombre": "Portavelas de cristal", "precio": 6500, "stock": 4, "imagen": "../images/deco2.jpg", "descripcion": "Portavelas de cristal con flores secas conservadas", "categoria": "para regalar"},
+    {"id": 8, "nombre": "Aplique de cristal", "precio": 5000, "stock": "3", "imagen": "https://dmediterranea.es/tienda/15957-pos_thickbox/campana-de-cristal-con-flores.jpg", "categoria": "decoracion"},
+    {"id": 9, "nombre": "Jarrones de Cristal", "precio": 3500, "stock": 6, "imagen": "../images/deco8.jpg", "descripcion": "Jarrones de cristal con ramillete de Flores secas conservadas", "categoria": "para regalar"}
     
     ]

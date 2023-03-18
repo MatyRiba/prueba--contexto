@@ -4,8 +4,7 @@ import ItemDetailContainer from "./components/itemDetailContainer";
 import { useState, useEffect} from "react";
 import Footer from "./components/Footer";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import {CartContextProvider} from "./context/CartContext";
-import Collection from "./Collection";
+import CartContextProvider from "./context/CartContext";
 import Cart from "./components/Cart";
 //import Welcome from "./components/Welcome";
 
@@ -15,7 +14,6 @@ const App = () => {
     <CartContextProvider>
     <BrowserRouter>
     <div>
-      <Collection/>
     <Navbar/>
     <Routes>
       <Route path={"/"} element = {<ItemListContainer/>} />
